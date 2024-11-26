@@ -1,0 +1,16 @@
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Release\net8.0\MyCleanApi.Infrastructure.deps.json
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Release\net8.0\MyCleanApi.Infrastructure.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Release\net8.0\MyCleanApi.Infrastructure.pdb
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Release\net8.0\MyCleanApi.Core.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Release\net8.0\MyCleanApi.Core.pdb
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.AssemblyInfo.cs
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.sourcelink.json
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanA.BB186A65.Up2Date
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\refint\MyCleanApi.Infrastructure.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\MyCleanApi.Infrastructure.pdb
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Release\net8.0\ref\MyCleanApi.Infrastructure.dll

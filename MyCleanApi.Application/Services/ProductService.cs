@@ -3,7 +3,7 @@ using MyCleanApi.Core.Entities;
 
 namespace MyCleanApi.Application.Services
 {
-    public class ProductService
+    public class ProductService: IProductService
     {
         private readonly IProductRepository _productRepository;
 

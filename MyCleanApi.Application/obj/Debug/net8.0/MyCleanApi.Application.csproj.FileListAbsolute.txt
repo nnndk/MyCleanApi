@@ -13,3 +13,4 @@ C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Application\obj\Debug\net8
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Application\obj\Debug\net8.0\refint\MyCleanApi.Application.dll
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Application\obj\Debug\net8.0\MyCleanApi.Application.pdb
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Application\obj\Debug\net8.0\ref\MyCleanApi.Application.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Application\obj\Debug\net8.0\MyCleanApi.Application.sourcelink.json

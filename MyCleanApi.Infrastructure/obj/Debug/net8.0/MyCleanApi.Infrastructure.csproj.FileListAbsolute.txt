@@ -13,3 +13,6 @@ C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\n
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\net8.0\refint\MyCleanApi.Infrastructure.dll
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.pdb
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\net8.0\ref\MyCleanApi.Infrastructure.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.sourcelink.json
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Infrastructure.runtimeconfig.json
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.genruntimeconfig.cache

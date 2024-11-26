@@ -9,3 +9,4 @@ C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Core\obj\Debug\net8.0\MyCl
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Core\obj\Debug\net8.0\refint\MyCleanApi.Core.dll
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.pdb
 C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Core\obj\Debug\net8.0\ref\MyCleanApi.Core.dll
+C:\Users\danil\main\netProjects\MyCleanApi\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.sourcelink.json

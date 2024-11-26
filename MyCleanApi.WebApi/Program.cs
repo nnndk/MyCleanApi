@@ -11,9 +11,9 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
 
         builder.Services.AddDbContext<AppDbContext>(options =>
-            options.UseNpgsql(builder.Configuration.GetConnectionString("Local")));
+            options.UseNpgsql(builder.Configuration.GetConnectionString("Docker")));
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
-        builder.Services.AddScoped<ProductService>();
+        builder.Services.AddScoped<IProductService>();
 
         builder.Services.AddControllers();
 
@@ -24,13 +24,32 @@ internal class Program
 
         var app = builder.Build();
 
-        if (app.Environment.IsDevelopment())
+        // Migration
+        using (var scope = app.Services.CreateScope())
+        {
+            try
+            {
+                var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+                db.Database.Migrate();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Database migration failed: {ex.Message}");
+                throw;
+            }
+        }
+
+        /*if (app.Environment.IsDevelopment())
         {
             app.UseSwagger();
             app.UseSwaggerUI();
-        }
+        }*/
+
+        app.UseSwagger();
+        app.UseSwaggerUI();
 
         app.MapControllers();
+        app.MapGet("/", () => "Hello World!");
 
         app.Run();
     }
