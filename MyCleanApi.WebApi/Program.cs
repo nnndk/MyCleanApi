@@ -42,7 +42,7 @@ internal class Program
                 Console.WriteLine($"Database migration failed: {ex.Message}");
                 throw;
             }
-        }
+        }        
 
         if (app.Environment.IsDevelopment())
             app.UseDeveloperExceptionPage();

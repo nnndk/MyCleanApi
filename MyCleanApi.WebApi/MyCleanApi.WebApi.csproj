@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyCleanApi.Application\MyCleanApi.Application.csproj" />
-    <ProjectReference Include="..\MyCleanApi.Core\MyCleanApi.Core.csproj" />
     <ProjectReference Include="..\MyCleanApi.Infrastructure\MyCleanApi.Infrastructure.csproj" />
   </ItemGroup>
 
