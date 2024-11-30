@@ -1,8 +1,8 @@
 using MyCleanApi.Core.Entities;
 
-namespace MyCleanApi.Core.Interfaces
+namespace MyCleanApi.Application.Interfaces
 {
-    public interface IProductRepository 
+    public interface IProductRepository
     {
         Task<IEnumerable<Product>> GetAllAsync();
         Task<Product> GetByIdAsync(int id);

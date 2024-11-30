@@ -1,5 +1,6 @@
 using MyCleanApi.Core.Interfaces;
 using MyCleanApi.Core.Entities;
+using MyCleanApi.Application.Interfaces;
 
 namespace MyCleanApi.Application.Services
 {

@@ -1,6 +1,6 @@
 using MyCleanApi.Core.Entities;
 
-namespace MyCleanApi.Application.Services
+namespace MyCleanApi.Core.Interfaces
 {
     public interface IProductService
     {

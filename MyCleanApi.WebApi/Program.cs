@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.HttpOverrides;
+using MyCleanApi.Application.Interfaces;
 using MyCleanApi.Application.Services;
 using MyCleanApi.Core.Interfaces;
 using MyCleanApi.Infrastructure;
@@ -16,7 +17,7 @@ internal class Program
         builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("Docker")));
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
-        builder.Services.AddScoped<IProductService>();
+        builder.Services.AddScoped<IProductService, ProductService>();
 
         // Add services to the container.
         builder.Services.ConfigureCors();

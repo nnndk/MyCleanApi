@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MyCleanApi.Core.Entities;
-using MyCleanApi.Core.Interfaces;
+using MyCleanApi.Application.Interfaces;
 
 namespace MyCleanApi.Infrastructure.Repositories
 {

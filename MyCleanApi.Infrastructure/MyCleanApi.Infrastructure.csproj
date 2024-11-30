@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyCleanApi.Core\MyCleanApi.Core.csproj" />
+    <ProjectReference Include="..\MyCleanApi.Application\MyCleanApi.Application.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using MyCleanApi.Application.Services;
 using MyCleanApi.Core.Entities;
+using MyCleanApi.Core.Interfaces;
 
 namespace MyCleanApi.WebApi.Controllers
 {
