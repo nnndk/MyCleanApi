@@ -10,10 +10,10 @@ Onion Architecture is used in this project.
 
 ## Onion Layers:
 
-1. Entities (Domain) Layer - MyCleanApi.Core - entities for business logic
-2. Service (Use-Case) Layer - MyCleanApi.Application - business logic
-3. Infrastructure Layer - MyCleanApi.Infrastructure - some external details (db, API of external servicesetc)
-4. Presentation (Controller) Layer - MyCleanApi.WebApi - API of this app
+1. Domain Layer (Entities) - MyCleanApi.Core - entities for business logic
+2. Service Layer (Use-Cases) - MyCleanApi.Application - business logic
+3. Infrastructure Layer - MyCleanApi.Infrastructure - some external details (db, API of external services, etc)
+4. Presentation Layer (Controllers) - MyCleanApi.WebApi - API of this app
 
 Infrastructure and Presentation layers are on the same level of the hierarchy. 
 
